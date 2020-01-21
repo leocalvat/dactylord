@@ -1,0 +1,1 @@
+java -cp target/dactylord-1.0-SNAPSHOT.jar me.dactylord.game.App
